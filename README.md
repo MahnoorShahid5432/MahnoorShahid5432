@@ -35,7 +35,7 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 - Engineered complex features from industry data using Pandas, Sklearn, and XGBoost
 - Visualized feature importances and model performance
 
-#### 🧠 SQL Retail Dataset Project
+####  SQL Retail Dataset Project
 *Retail Analytics | SQL Optimization*
 - Designed and queried a toy sales dataset using PostgreSQL to extract user behavior and transaction trends
 - Created segment-wise revenue breakdowns and cohort analysis
@@ -46,7 +46,7 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 - Used NLTK, Scikit-learn for preprocessing, TF-IDF, and classification
 - Built visual dashboards for stakeholder storytelling
 
-#### 🍎 SmartCal AI: API-Integrated Calorie Tracker
+####  SmartCal AI: API-Integrated Calorie Tracker
 *Python | Nutrition APIs*
 - Designed a Python-based tracker that fetches nutritional info using REST APIs
 - Improved tracking accuracy and eliminated the need for web scraping
@@ -72,12 +72,12 @@ My sweet spot? Driving impact by turning raw data into smart decisions — acros
 
 ---
 
-### 🤝 Let’s Connect!
+###  Let’s Connect!
 
 I am always open to:
-- 🎯 Collaborating on Data & Product projects
-- 💡 Brainstorming business ideas at the intersection of analytics & ops
-- 🧭 Chatting career paths in tech, product, and analytics
+-  Collaborating on Data & Product projects
+-  Brainstorming business ideas at the intersection of analytics & ops
+-  Chatting career paths in tech, product, and analytics
 
 Thanks for visiting! 🚀
 Updated personal GitHub profile readme
