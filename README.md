@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mahnoor Shahid
+# Hi there, I'm Mahnoor Shahid
 
 📍 San Francisco Bay Area | 🎓 UC Davis MSBA | 🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-shahid-516545154/)
 
